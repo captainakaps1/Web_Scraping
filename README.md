@@ -1,6 +1,6 @@
 # Count Number of (Training) Word Test
 
-This is a simple number to text converter.
+This is a simple web scrapping test.
 
 ## Motivation :seedling:
 
